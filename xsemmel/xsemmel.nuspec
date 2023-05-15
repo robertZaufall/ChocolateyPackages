@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>xsemmel</id>
+    <version>2017.04.09</version>
+    <title>Xsemmel</title>
+    <authors>F. Schnitzer</authors>
+    <projectUrl>https://github.com/fcarver/xsemmel</projectUrl>
+    <description>Xsemmel: XML editor and viewer</description>
+    <licenseUrl>https://github.com/fcarver/xsemmel/blob/master/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+</package>
