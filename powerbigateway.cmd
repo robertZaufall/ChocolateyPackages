@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 set NAME=powerbigateway
-set PACKAGE_FOLDER=V:\_deploy\Chocolatey\Web\chocolatey.server\App_Data\Packages
+set PACKAGE_FOLDER=%chocolatestore_fileshare%
 
 cd /D "%~dp0"
 set NUSPEC_FILE=%NAME%.nuspec
