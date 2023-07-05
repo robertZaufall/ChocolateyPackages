@@ -25,7 +25,7 @@ Store dataset metadata in a file and actually check it into source control!
 - Reuse definitions  
 Reuse definitions between tabular models for alignment with common business definitions in an enterprise organization.  
 
-Self-service to corporate BI
+- Self-service to corporate BI
 Bridge the gap between self-service and corporate BI. Reuse definitions from self-service models to IT-owned semantic models.
     </description>
     <tags>almtoolkit analysisservices ssas powerbi pbid tabular dwh</tags>
