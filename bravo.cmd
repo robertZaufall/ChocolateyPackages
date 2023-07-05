@@ -27,7 +27,7 @@ pause
 
 @echo on
 choco apikey --key %CHOCOLATEY_API_KEY% --source https://push.chocolatey.org/
-choco push %NUPKG_FILE% --source https://push.chocolatey.org/
+choco push %NUPKG_FILE% --source https://push.chocolatey.org/ --verbose
 
 endlocal
 pause

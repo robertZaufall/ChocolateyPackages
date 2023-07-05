@@ -1,12 +1,13 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>bravo</id>
-    <version>1.0.2</version>
+    <version>1.0.4</version>
     <title>Bravo for PowerBI</title>
     <authors>SQL-BI</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/sql-bi/Bravo/blob/main/LICENSE</licenseUrl>
     <projectUrl>https://github.com/sql-bi/Bravo</projectUrl>
-	<iconUrl>https://github.com/sql-bi/Bravo/blob/main/src/wwwroot/images/bravo.svg</iconUrl>
     <description>Bravo is your trusted mate who helps you create a Power BI model!
 
  - Analyze your model and find the more expensive columns and tables. 
@@ -16,10 +17,7 @@
 
 Bravo is not a replacement for more advanced tools like DAX Studio and Tabular Editor: those tools are still required for more advanced tasks and options. But when the task is simple, or if you are still moving your first steps with Power BI, Bravo is there to help you.
 
-Bravo is free and open-source. The codebase is C# and TypeScript. However, you can contribute also by just testing the tool and reviewing the translations!
-	</description>
-    <licenseUrl>https://github.com/sql-bi/Bravo/blob/main/LICENSE</licenseUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+Bravo is free and open-source. The codebase is C# and TypeScript. However, you can contribute also by just testing the tool and reviewing the translations!</description>
     <tags>bravo powerbi pbid dax tabular ssas analysisservices dwh</tags>
   </metadata>
 </package>
