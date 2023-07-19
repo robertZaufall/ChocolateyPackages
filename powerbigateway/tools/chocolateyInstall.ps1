@@ -5,7 +5,7 @@ $packageArgs = @{
 	url            = 'https://download.microsoft.com/download/D/A/1/DA1FDDB8-6DA8-4F50-B4D0-18019591E182/GatewayInstall.exe'
 	fileType       = 'exe'
 	silentArgs     = '/q'
-    checksum       = '72e97fec2bbcb9303a476c8334b5446d8e69e4c75560f4aac57a081165f66d50'
+    checksum       = '212432f32bba5ec8e8d82707ba0a0eeba3951736d2d73e340be3e86b56652d90'
     checksumType   = 'sha256'
 	validExitCodes = @(0, 3010, 1641)
 }
