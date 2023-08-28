@@ -1,0 +1,8 @@
+test/_TODO.txt
+test/ReadMe.md
+test/test.nuspec
+test/tools/chocolateybeforemodify.ps1
+test/tools/chocolateyinstall.ps1
+test/tools/chocolateyuninstall.ps1
+test/tools/LICENSE.txt
+test/tools/VERIFICATION.txt
