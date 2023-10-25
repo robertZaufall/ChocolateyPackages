@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>powerbigateway</id>
-    <version>3000.194.14</version>
+    <version>3000.194.16</version>
     <title>Power BI on-premises data gateway (Standard Mode)</title>
 	<authors>Microsoft</authors>
     <projectUrl>https://www.microsoft.com/en-us/download/details.aspx?id=53127</projectUrl>
@@ -14,6 +14,9 @@ The data gateway can be deployed centrally and allows you to manage data connect
 Once the gateway is installed, it is available in all supported apps and can be used to set up multiple on-premises data connections.
 
     </description>
+	<dependencies>
+      <dependency id="netfx-4.8" version="4.8.*" />
+    </dependencies>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
 	<tags>powerbi gateway dax tabular ssas analysisservices dwh</tags>
   </metadata>
